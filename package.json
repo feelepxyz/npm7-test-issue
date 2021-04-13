@@ -11,7 +11,7 @@
     "@types/node-cleanup": "^2.1.1",
     "@types/puppeteer": "^5.4.3",
     "@typescript-eslint/eslint-plugin": "^4.14.2",
-    "@typescript-eslint/parser": "^4.14.2",
+    "@typescript-eslint/parser": "^4.22.0",
     "ava": "3.15.0",
     "bent": "^7.3.12",
     "chai": "^4.3.0",
